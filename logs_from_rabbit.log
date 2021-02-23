@@ -1,3 +1,12 @@
+/home/lupine/rabbitmq/receive_logs_direct.php:13:
+array(3) {
+  [0] =>
+  string(23) "receive_logs_direct.php"
+  [1] =>
+  string(7) "warning"
+  [2] =>
+  string(5) "error"
+}
+warning
+error
  [*] Waiting for logs. To exit press CTRL+C
- [x] info: Hello World!
- [x] Paul Scholes
